@@ -154,6 +154,9 @@ body{
     width: 100%;
     height: auto;
     margin-right: 5px;
+    text-align: center;
+    flex-wrap: nowrap;
+    text-transform: capitalize;
 }
 .side-2{
     padding-left: 8px;
@@ -161,6 +164,9 @@ body{
     background: #2ecadc;
     width: auto;
     height: auto;
+    text-align: center;
+    flex-wrap: nowrap;
+    text-transform: capitalize;
 }
 .primery-color{
     color: #fff;
