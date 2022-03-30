@@ -4,4 +4,4 @@
   <li>Header settings</li>
   <li>Section and side bar</li>
   <li>Footer settings</li>
-  </ul>
+</ul>
